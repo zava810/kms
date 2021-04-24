@@ -37,6 +37,7 @@ above zinglish keyboard has symbols phur :
 1. phonics / phonetics : vovels / sopht consonants / hard consonants
 ![][i1]
 2. heks810 arithmetic numerals vith 8+8=10=vnti glyphs Az shoun in 1st green rou in keyboard.
+![][i3]
 3. programming symbols
 4. punctuation symbols
 5. arithmetic symbols
@@ -48,5 +49,5 @@ above zinglish keyboard has symbols phur :
 
 [i1]: imez/zpg_png/phoniks.png
 [i2]: imez/zpg_png/kibord.ascii810.jpg 
-
+[i3]: imez/zpg_png/h40kaunt.jpg
 [el1]: https://www.fontsquirrel.com/fonts/delius-unicase
