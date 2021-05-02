@@ -1,8 +1,19 @@
-# heksoin => heksadesiml crypto currency
+# is pez ko mozilla brouser me u5cdot.ttf ke saTh hi vieu kre.
+
+## heksoin => heksadesiml crypto currency
 ```
 centralization = corrupion by people oph people phur people.
 decentralization = decorrupion by digitizesn oph digitizesn phur digitizesn.
 ```
+### date : 3may7X5 3 may sevenso Aksti phaiv
+
+
+### 1 bitcoin = 111111 heksoin = same alvays
+
+### 1 heksoin =~ 3 rupye X paise = changing
+
+### (heksadesiml hscii810 mAths)
+
 <img src="../imez/Animesn/1rs48koens.gif">
 
 ### india's old heksadesiml nmbrs & monetary system.
