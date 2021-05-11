@@ -1,7 +1,8 @@
-# mintos = minu tree os 
+# mintos = minu tree os
 
 ( starting point : linuks mint vith unicase same height font u5c.ttf ( phrom [DeliusUnicase][el1] ) )
-![][i2]
+
+ <img src="imez/keybord/hscii_keybord.png" alt="multilanguage keyboard">
 
 
 ```
@@ -28,7 +29,7 @@ J vill be in maths as :
 > J = zilevn = 8 + 3 = L+1 = ten+1 = q - 1 = kvlv - 1 = w -2 = dblyu - 2 = X - 3 = Aksen - 3 = F -4 = phen - 4 = 10 - 5 = vnti - phaiv
 > 2 Thumbs phur biometric sign , shou , svitch
 > 8 phingers to type & count as :
->> 8+8 = 10 = vnti = 4*4 
+>> 8+8 = 10 = vnti = 4*4
 
 try hpop_u5.apk u5c.ttf hksuletr.apk at [zava810 github repository][zava810]
 
@@ -48,6 +49,6 @@ above zinglish keyboard has symbols phur :
 [3]: https://github.com/Font77/unicase_phonts/blob/master/hao_tu_install.md
 
 [i1]: imez/zpg_png/phoniks.png
-[i2]: imez/zpg_png/kibord.ascii810.jpg 
+[i2]: imez/keybord/hscii_keybord.png
 [i3]: imez/zpg_png/h40kaunt.jpg
 [el1]: https://www.fontsquirrel.com/fonts/delius-unicase
