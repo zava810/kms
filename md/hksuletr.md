@@ -1,8 +1,31 @@
-# mintos = minu tree os 
+# hksuletr programming calculator
 
-( starting point : linuks mint vith unicase same height font u5c.ttf ( phrom [DeliusUnicase][el1] ) )
-![][i2]
+#### hm hscii codes me **heksadesiml dizits** ko 3 Trh se mila(include) skte h :
+1. **u5c\*** phonts
+![](../imez/phont_charts/heks_in_u5c.png)
+1. **u5h\*** phonts
+![](../imez/phont_charts/heks_in_u5h.png)
+1. lgaTar(continuous) in **u8\*** phonts (sbse shi Trika)
+![](../imez/phont_charts/heks_in_u8.png)
+<hr/>
 
+##### hm hscii codes me **binary vertical dizits** ko 3 Trh se mila(include) skte h :
+1. **u5c\*** phonts
+![](../imez/phont_charts/vrktikl_bainri_in_u5c2.png)
+1. **u5h\*** phonts
+![](../imez/phont_charts/vrtikl_bainri_in_u5h2.png)
+1. lgaTar(continuous) in **u8\*** phonts (sbse shi Trika)
+![](../imez/phont_charts/vrtikl_bainri_in_u8.png)
+<hr/>
+
+##### hm hscii codes me **bainri_horizontl dizits** ko 3 Trh se mila(include) skte h :
+1. **u5c\*** phonts
+![](../imez/phont_charts/horizontl_bainri_in_u5c.png)
+1. **u5h\*** phonts
+![](../imez/phont_charts/horizontl_bainri_in_u5h2.png)
+1. lgaTar(continuous) in **u8\*** phonts (sbse shi Trika)
+![](../imez/phont_charts/horizontl_bainri_in_u82.png)
+<hr/>
 
 ```
 > **underscore under pipe** pipes out keys/commands from task_Activity_1 to task_Activity_2.
@@ -28,7 +51,7 @@ J vill be in maths as :
 > J = zilevn = 8 + 3 = L+1 = ten+1 = q - 1 = kvlv - 1 = w -2 = dblyu - 2 = X - 3 = Aksen - 3 = F -4 = phen - 4 = 10 - 5 = vnti - phaiv
 > 2 Thumbs phur biometric sign , shou , svitch
 > 8 phingers to type & count as :
->> 8+8 = 10 = vnti = 4*4 
+>> 8+8 = 10 = vnti = 4*4
 
 try hpop_u5.apk u5c.ttf hksuletr.apk at [zava810 github repository][zava810]
 
@@ -48,6 +71,6 @@ above zinglish keyboard has symbols phur :
 [3]: https://github.com/Font77/unicase_phonts/blob/master/hao_tu_install.md
 
 [i1]: imez/zpg_png/phoniks.png
-[i2]: imez/zpg_png/kibord.ascii810.jpg 
+[i2]: imez/zpg_png/kibord.ascii810.jpg
 [i3]: imez/zpg_png/h40kaunt.jpg
 [el1]: https://www.fontsquirrel.com/fonts/delius-unicase
