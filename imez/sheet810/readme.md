@@ -2,12 +2,9 @@
 
 <img src="calendar_zoho1.gif" alt="spreadsheet mathematics"></img>
 
-<<<<<<< HEAD
 <a href="https://sheet.zoho.com/sheet/open/nylx087eafd0305ad476cadd997f3d060787d">hscii indeks rows columns</a>
 
 
-=======
->>>>>>> 570e3e89f2a1aaaec7ba37e64f0ab6b9678fc667
 ```
 2 Thumbs sign shou svitch oph/on/lock/unlock
 8 phiNgers type zinglish & count in zava810
