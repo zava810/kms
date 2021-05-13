@@ -4,7 +4,10 @@
 
 <a href="https://sheet.zoho.com/sheet/open/nylx087eafd0305ad476cadd997f3d060787d">hscii indeks rows columns</a>
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 01f361085ffe167f1307212954263b977fc15e4c
 ```
 2 Thumbs sign shou svitch oph/on/lock/unlock
 8 phiNgers type zinglish & count in zava810
