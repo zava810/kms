@@ -9,6 +9,7 @@
 #### task_Activity_1 to task_Activity_2.
 
 #### hscii keyboard is to make easy :
+
 <ol>
   <li>
   computer coding & programming (zava/zenkins/rust/go/zs/perl etc)
