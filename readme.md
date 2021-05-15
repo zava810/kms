@@ -2,8 +2,7 @@
 
 ( starting point : linuks mint vith unicase same height font u5c.ttf ( phrom [DeliusUnicase][el1] ) )
 
- <img src="imez/keybord/hscii_keybord.png" alt="multilanguage keyboard">
-
+ <img src="imez/keybord/simbls_hscii_keybord.png" alt="multilanguage keyboard">
 
 ```
 > **underscore under pipe** pipes out keys/commands from task_Activity_1 to task_Activity_2.
@@ -13,6 +12,8 @@ pliiz try **mozilla phayrphoks internet brouser** vith u5cdot (custom DeliusUnic
 1. pliiz dounload **[u5c.ttf/u5cdot.ttf][2]**.
 1. nao open mozilla phayrphoks internet brouser. google chrome custom phont not easy.
 3. install  **above dounloaded [u5c.ttf/u5cdot.ttf][3] in linuks mint & phayrphoks**.
+
+<b><a href="https://docs.google.com/spreadsheets/d/e/2PACX-1vRYY_On0oQlYqCH8KrAuNy9nxnUKRx9dG6UvjoZjbP1ZVeXX6VcHl-sU2yg9jbAFszCcNZ5STK47_rz/pubhtml">all links</a></b>
 
 This os vill be ekstension to linuks mint.
 
